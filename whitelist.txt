@@ -1,11 +1,14 @@
 # This is my private Adguard Home whitelist for my personal needs
 @@||kachelmannwetter.com^$important
+# Instagram
 @@||cdninstagram.com^$important
+# F1 TV
 @@||f1-prod-production.apigee.net^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
 @@||f1tv-cdn-cent-west.formula1.com.c.footprint.net^$important
 @@||f1tv-cdn-cent-live.formula1.com.c.footprint.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
+# Joyn TV Stream
 @@||yospace.com^$important
 @@||0.client-channel.google.com^$important
 @@||1drv.com^$important
@@ -200,7 +203,7 @@
 @@||youtu.be^$important
 @@||youtube-nocookie.com^$important
 @@||yt3.ggpht.com^$important
-# Netflix - Domains needed for netlix to work correctly
+# Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||appboot.netflix.com^$important
