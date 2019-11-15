@@ -10,8 +10,6 @@
 @@||f1-prod-production.dn.apigee.net^$important
 @@||f1tv-livedata.formula1.com^$important
 @@||formula1.com^$important
-@@||footprint.net^$important
-@@||apigee.net^$important
 # Joyn TV Stream
 @@||yospace.com^$important
 @@||0.client-channel.google.com^$important
