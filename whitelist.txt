@@ -1,5 +1,4 @@
-# This is my private Adguard Home whitelist for my personal needs
-@@||kachelmannwetter.com^$important
+# My Adguard Home whitelist
 # Instagram
 @@||cdninstagram.com^$important
 # F1 TV
@@ -12,199 +11,236 @@
 @@||formula1.com^$important
 # Joyn TV Stream
 @@||yospace.com^$important
+# Google
 @@||0.client-channel.google.com^$important
-@@||1drv.com^$important
 @@||2.android.pool.ntp.org^$important
-@@||akamaihd.net^$important
-@@||akamaitechnologies.com^$important
-@@||akamaized.net^$important
-@@||alluremedia.com.au^$important
-@@||amazonaws.com^$important
 @@||android.clients.google.com^$important
-@@||api.ipify.org^$important
-@@||api.rlje.net^$important
-@@||app-api.ted.com^$important
-@@||app.plex.tv^$important
-@@||apps.skype.com^$important
 @@||appsbackup-pa.clients6.google.com^$important
 @@||appsbackup-pa.googleapis.com^$important
-@@||apt.sonarr.tv^$important
-@@||aspnetcdn.com^$important
-@@||attestation.xboxlive.com^$important
-@@||ax.phobos.apple.com.edgesuite.net^$important
-@@||brightcove.net^$important
-@@||bufferapp.com^$important
-@@||c.s-microsoft.com^$important
-@@||cdn.cloudflare.net^$important
-@@||cdn.embedly.com^$important
-@@||cdn.optimizely.com^$important
-@@||cdn.vidible.tv^$important
-@@||cdn2.optimizely.com^$important
-@@||cdn3.optimizely.com^$important
-@@||cdnjs.cloudflare.com^$important
-@@||cert.mgt.xboxlive.com^$important
-@@||clientconfig.passport.net^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
 @@||clients4.google.com^$important
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
-@@||cpms.spop10.ams.plex.bz^$important
-@@||cpms35.spop10.ams.plex.bz^$important
 @@||cse.google.com^$important
-@@||ctldl.windowsupdate.com^$important
-@@||d2c8v52ll5s99u.cloudfront.net^$important
-@@||d2gatte9o95jao.cloudfront.net^$important
-@@||dashboard.plex.tv^$important
-@@||dataplicity.com^$important
-@@||def-vef.xboxlive.com^$important
-@@||delivery.vidible.tv^$important
-@@||dev.virtualearth.net^$important
-@@||device.auth.xboxlive.com^$important
-@@||display.ugc.bazaarvoice.com^$important
-@@||displaycatalog.mp.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
-@@||dl.dropbox.com^$important
-@@||dl.dropboxusercontent.com^$important
-@@||dns.msftncsi.com^$important
-@@||download.sonarr.tv^$important
-@@||drift.com^$important
-@@||driftt.com^$important
-@@||dynupdate.no-ip.com^$important
-@@||ec-ns.sascdn.com^$important
-@@||ecn.dev.virtualearth.net^$important
-@@||edge.api.brightcove.com^$important
-@@||eds.xboxlive.com^$important
 @@||fonts.gstatic.com^$important
-@@||forums.sonarr.tv^$important
-@@||g.live.com^$important
-@@||geo-prod.do.dsp.mp.microsoft.com^$important
-@@||geo3.ggpht.com^$important
-@@||giphy.com^$important
-@@||github.com^$important
-@@||github.io^$important
+@@||www.googleapis.com^$important
 @@||googleapis.com^$important
-@@||gravatar.com^$important
 @@||gstatic.com^$important
-@@||help.ui.xboxlive.com^$important
-@@||hls.ted.com^$important
-@@||i.s-microsoft.com^$important
+@@||instantmessaging-pa.googleapis.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||www.youtube-nocookie.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
-@@||imagesak.secureserver.net^$important
-@@||img.vidible.tv^$important
-@@||imgix.net^$important
-@@||imgs.xkcd.com^$important
-@@||instantmessaging-pa.googleapis.com^$important
-@@||intercom.io^$important
-@@||j.mp^$important
-@@||jquery.com^$important
-@@||jsdelivr.net^$important
-@@||keystone.mwbsys.com^$important
-@@||lastfm-img2.akamaized.net^$important
-@@||licensing.xboxlive.com^$important
-@@||live.com^$important
-@@||login.aliexpress.com^$important
-@@||login.live.com^$important
-@@||login.microsoftonline.com^$important
-@@||manifest.googlevideo.com^$important
+@@||s.ytimg.com^$important
+# Plex
+@@||app.plex.tv^$important
+@@||cpms.spop10.ams.plex.bz^$important
+@@||cpms35.spop10.ams.plex.bz^$important
+@@||dashboard.plex.tv^$important
 @@||meta-db-worker02.pop.ric.plex.bz^$important
 @@||meta.plex.bz^$important
 @@||meta.plex.tv^$important
-@@||microsoftonline.com^$important
-@@||msftncsi.com^$important
 @@||my.plexapp.com^$important
-@@||nexusrules.officeapps.live.com^$important
-@@||npr-news.streaming.adswizz.com^$important
 @@||nine.plugins.plexapp.com^$important
-@@||no-ip.com^$important
 @@||node.plexapp.com^$important
-@@||notify.xboxlive.com^$important
-@@||ns1.dropbox.com^$important
-@@||ns2.dropbox.com^$important
 @@||o1.email.plex.tv^$important
 @@||o2.sg0.plex.tv^$important
-@@||ocsp.apple.com^$important
-@@||office.com^$important
-@@||office.net^$important
-@@||office365.com^$important
-@@||officeclient.microsoft.com^$important
-@@||om.cbsi.com^$important
-@@||onedrive.live.com^$important
-@@||outlook.live.com^$important
-@@||outlook.office365.com^$important
-@@||pinterest.com^$important
-@@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
-@@||players.brightcove.net^$important
-@@||pricelist.skype.com^$important
-@@||products.office.com^$important
 @@||proxy.plex.bz^$important
 @@||proxy.plex.tv^$important
 @@||proxy02.pop.ord.plex.bz^$important
 @@||pubsub.plex.bz^$important
 @@||pubsub.plex.tv^$important
-@@||raw.githubusercontent.com^$important
-@@||redirector.googlevideo.com^$important
-@@||res.cloudinary.com^$important
-@@||s.gateway.messenger.live.com^$important
-@@||s.marketwatch.com^$important
-@@||s.shopify.com^$important
-@@||s.youtube.com^$important
-@@||s.ytimg.com^$important
-@@||s1.wp.com^$important
-@@||s2.youtube.com^$important
-@@||s3.amazonaws.com^$important
-@@||sa.symcb.com^$important
-@@||secure.avangate.com^$important
-@@||secure.brightcove.com^$important
-@@||secure.surveymonkey.com^$important
-@@||services.sonarr.tv^$important
-@@||sharepoint.com^$important
-@@||skyhook.sonarr.tv^$important
-@@||spclient.wg.spotify.com^$important
-@@||ssl.p.jwpcdn.com^$important
 @@||staging.plex.tv^$important
 @@||status.plex.tv^$important
-@@||t.co^$important
-@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
-@@||t0.ssl.ak.tiles.virtualearth.net^$important
-@@||tawk.to^$important
-@@||tedcdn.com^$important
-@@||themoviedb.com^$important
-@@||thetvdb.com^$important
-@@||tinyurl.com^$important
-@@||title.auth.xboxlive.com^$important
-@@||title.mgt.xboxlive.com^$important
-@@||traffic.libsyn.com^$important
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# No-IP.com
+@@||dynupdate.no-ip.com^$important
+@@||no-ip.com^$important
+@@||www.no-ip.com^$important
+# Twitter
 @@||twimg.com^$important
 @@||twitter.com^$important
-@@||ui.skype.com^$important
-@@||v.shopify.com^$important
-@@||video-stats.l.google.com^$important
-@@||videos.vidible.tv^$important
+@@||t.co^$important
+# Optimizely
+@@||cdn.optimizely.com^$important
+@@||cdn2.optimizely.com^$important
+@@||cdn3.optimizely.com^$important
+# Akamai Technologies
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||lastfm-img2.akamaized.net^$important
 @@||widget-cdn.rpxnow.com^$important
-@@||wikipedia.org^$important
-@@||win10.ipv6.microsoft.com^$important
-@@||wordpress.com^$important
-@@||wp.com^$important
-@@||ws.audioscrobbler.com^$important
+# Sonarr TV Soft
+@@||apt.sonarr.tv^$important
+@@||download.sonarr.tv^$important
+@@||forums.sonarr.tv^$important
+@@||services.sonarr.tv^$important
+@@||skyhook.sonarr.tv^$important
+# Ipify.org
+@@||api.ipify.org^$important
+# Rlje.net VOD
+@@||api.rlje.net^$important
+# Buffer CDN 
+@@||bufferapp.com^$important
+# Embedly.com
+@@||cdn.embedly.com^$important
+# Dataplicity.com
+@@||dataplicity.com^$important
 @@||www.dataplicity.com^$important
-@@||www.googleapis.com^$important
-@@||www.msftncsi.com^$important
-@@||www.no-ip.com^$important
-@@||www.youtube-nocookie.com^$important
+# Drift.com
+@@||drift.com^$important
+@@||driftt.com^$important
+# Giphy.com
+@@||giphy.com^$important
+# Gravatar Image
+@@||gravatar.com^$important
+# Ted.com
+@@||hls.ted.com^$important
+@@||app-api.ted.com^$important
+@@||tedcdn.com^$important
+# Vidible Video Platform
+@@||img.vidible.tv^$important
+@@||cdn.vidible.tv^$important
+@@||delivery.vidible.tv^$important
+@@||videos.vidible.tv^$important
+# ImgIX
+@@||imgix.net^$important
+# XKCD
+@@||imgs.xkcd.com^$important
+#Bitly URL Shortener
+@@||j.mp^$important
+# Jquery
+@@||jquery.com^$important
+# Jsdelivr.net Open Source CDN
+@@||jsdelivr.net^$important
+# Malwarebytes Anti-Malware
+@@||keystone.mwbsys.com^$important
+# Aliexpress.com
+@@||login.aliexpress.com^$important
+# Adswizz sponsor clips before several podcasts
+@@||npr-news.streaming.adswizz.com^$important
+# CBS Television Stream
+@@||om.cbsi.com^$important
+@@||dw.cbsi.com^$important
+@@||cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||s0.2mdn.net^$important
+# Audioscrobbler.com
+@@||ws.audioscrobbler.com^$important
+# Pinterest
+@@||pinterest.com^$important
+# Placehold it image soft
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
+# Brightcove Player
+@@||brightcove.net^$important
+@@||players.brightcove.net^$important
+@@||secure.brightcove.com^$important
+@@||edge.api.brightcove.com^$important
+# Cloudinary Upload Platform
+@@||res.cloudinary.com^$important
+# Shopify.com eCommerce Software
+@@||v.shopify.com^$important
+@@||s.shopify.com^$important
+# Wordpress
+@@||wp.com^$important
+@@||s1.wp.com^$important
+@@||wordpress.com^$important
+# Avangate Shop
+@@||secure.avangate.com^$important
+# Surveymonkey
+@@||secure.surveymonkey.com^$important
+# JW Player
+@@||ssl.p.jwpcdn.com^$important
+# Tawk Live Chat
+@@||tawk.to^$important
+# Themoviedb.com
+@@||themoviedb.com^$important
+# Thetvdb.com
+@@||thetvdb.com^$important
+# Tinyurl Shortener
+@@||tinyurl.com^$important
+# Libsyn Podcast Hosting
+@@||traffic.libsyn.com^$important
+# Wikipedia
+@@||wikipedia.org^$important
+# Microsoft
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
 @@||xflight.xboxlive.com^$important
 @@||xkms.xboxlive.com^$important
 @@||xsts.auth.xboxlive.com^$important
-@@||youtu.be^$important
-@@||youtube-nocookie.com^$important
-@@||yt3.ggpht.com^$important
+@@||ui.skype.com^$important
+@@||title.auth.xboxlive.com^$important
+@@||title.mgt.xboxlive.com^$important
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@||t0.ssl.ak.tiles.virtualearth.net^$important
+@@||win10.ipv6.microsoft.com^$important
+@@||sharepoint.com^$important
+@@||s.gateway.messenger.live.com^$important
+@@||pricelist.skype.com^$important
+@@||products.office.com^$important
+@@||onedrive.live.com^$important
+@@||outlook.live.com^$important
+@@||outlook.office365.com^$important
+@@||office.com^$important
+@@||office.net^$important
+@@||office365.com^$important
+@@||officeclient.microsoft.com^$important
+@@||notify.xboxlive.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||microsoftonline.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||licensing.xboxlive.com^$important
+@@||live.com^$important
+@@||msftncsi.com^$important
+@@||i.s-microsoft.com^$important
+@@||help.ui.xboxlive.com^$important
+@@||c.s-microsoft.com^$important
+@@||apps.skype.com^$important
+@@||attestation.xboxlive.com^$important
+@@||cert.mgt.xboxlive.com^$important
+@@||clientconfig.passport.net^$important
+@@||ctldl.windowsupdate.com^$important
+@@||dev.virtualearth.net^$important
+@@||device.auth.xboxlive.com^$important
+@@||ecn.dev.virtualearth.net^$important
+@@||def-vef.xboxlive.com^$important
+@@||www.msftncsi.com^$important
+@@||eds.xboxlive.com^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||dns.msftncsi.com^$important
+@@||g.live.com^$important
+@@||1drv.com^$important
+@@||aspnetcdn.com^$important
 # Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
@@ -221,7 +257,7 @@
 @@||spclient.wg.spotify.com^$important
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
-# Amazon Prime Video
+# Amazon Prime Video and Amazon CDN
 @@||eu.api.amazonvideo.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||fls-eu.amazon.com^$important
@@ -229,6 +265,10 @@
 @@||cloudfront.net^$important
 @@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
+@@||amazonaws.com^$important
+@@||s3.amazonaws.com^$important
+@@||d2c8v52ll5s99u.cloudfront.net^$important
+@@||d2gatte9o95jao.cloudfront.net^$important
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
@@ -241,4 +281,5 @@
 @@||cdn-apple.com^$important
 @@||iphone-ld.origin-apple.com.akadns.net^$important
 @@||appleid.apple.com^$important
-@@||gdmf.apple.com.akadns.net^$important
+@@||ax.phobos.apple.com.edgesuite.net^$important
+@@||ocsp.apple.com^$important
