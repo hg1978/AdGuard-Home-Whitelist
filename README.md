@@ -5,6 +5,6 @@ If you have remaks or wishes please feel free to contact me.
 
 UPDATE Dec 19, 2019
 
-For me at least, the new CNAME cloaking has an effect on legitimate domains and therefore generates "false positives". For me it concerns iOS Apps as well as websites. I will update the whitelist when I see some false positive blockings.
+For me at least, the new CNAME cloaking has an effect on legitimate domains and therefore generates "false positives". For me it affects iOS Apps as well as websites. I will update the whitelist when I see some false positive blockings.
 
 See infos regarding CNAME cloaking: https://medium.com/nextdns/cname-cloaking-the-dangerous-disguise-of-third-party-trackers-195205dc522a
