@@ -283,3 +283,11 @@
 @@||appleid.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||ocsp.apple.com^$important
+# Weather
+@@||worldweather.wmo.int^$important
+@@||yr.no^$important
+# Lets Encrypt
+@@||letsencrypt.org^$important
+# Spiegel.de
+@@||cdn1.spiegel.de^$important
+@@||cdn.www.spiegel.de^$important
