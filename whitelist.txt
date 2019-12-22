@@ -256,6 +256,7 @@
 @@||market.spotify.com^$important
 @@||spclient.wg.spotify.com^$important
 @@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
 # Amazon Prime Video and Amazon CDN
