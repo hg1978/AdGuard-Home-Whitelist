@@ -294,3 +294,4 @@
 # Spiegel.de
 @@||cdn1.spiegel.de^$important
 @@||cdn.www.spiegel.de^$important
+@@||c.spiegel.de^$important
