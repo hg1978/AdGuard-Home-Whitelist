@@ -295,3 +295,5 @@
 @@||cdn1.spiegel.de^$important
 @@||cdn.www.spiegel.de^$important
 @@||c.spiegel.de^$important
+@@||cdn.prod.www.spiegel.de^$important
+@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
