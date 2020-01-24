@@ -298,3 +298,8 @@
 @@||cdn.prod.www.spiegel.de^$important
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||spiegel.de^$important
+# Manager Magazin App
+@@||manager-magazin-de.manager-magazin.de^$important
+@@||cdn1.manager-magazin.de^$important
+@@||sni.cdn.manager-magazin.de.c.footprint.net^$important
+@@||a.manager-magazin.de^$important
