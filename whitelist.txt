@@ -303,3 +303,23 @@
 @@||cdn1.manager-magazin.de^$important
 @@||sni.cdn.manager-magazin.de.c.footprint.net^$important
 @@||a.manager-magazin.de^$important
+# Disney+ Streaming
+@@||sanalytics.disneyplus.com^$important
+@@||cdn.registerdisney.go.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com^$important
+@@||dssott.com^$important
+@@||disneyplus.com^$important
+@@||disney-plus.net^$important
+@@||cws.conviva.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||disney-portal.my.onetrust.com^$important
+@@||global.edge.bamgrid.com^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
+@@||bamgrid.com^$important
+# Formula 1 Mobile iOS
+@@||codemasters.helpshift.com^$important
+@@||f1mrs.codemasters.com^$important
+@@||cdp.cloud.unity3d.com^$important
+@@||di-wuhqj6gc.leasewebultracdn.com^$important
+@@||config.uca.cloud.unity3d.com^$important
+@@||ecommerce.iap.unity3d.com^$important
