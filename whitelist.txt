@@ -317,6 +317,10 @@
 @@||prod-ripcut-delivery.disney-plus.net^$important
 @@||bamgrid.com^$important
 @@||disneyplus.com.ssl.sc.omtrdc.net^$important
+@@||cws-sjc2.conviva.com^$important
+@@||cws-iad1.conviva.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@||disney.demdex.net^$important
 # Formula 1 Mobile iOS
 @@||codemasters.helpshift.com^$important
 @@||f1mrs.codemasters.com^$important
