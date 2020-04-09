@@ -286,6 +286,13 @@
 @@||appleid.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||ocsp.apple.com^$important
+@@||init-p01md-lb.push-apple.com.akadns.net^$important
+@@||init-p01md.apple.com^$important
+@@||init-p01st.push.apple.com^$important
+@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
+@@||iadsdk.apple.com.akadns.net^$important
+@@||play.itunes.apple.com.edgesuite.net^$important
 # Weather
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
@@ -328,3 +335,5 @@
 @@||di-wuhqj6gc.leasewebultracdn.com^$important
 @@||config.uca.cloud.unity3d.com^$important
 @@||ecommerce.iap.unity3d.com^$important
+# DynDns Provider
+@@||dyndns.variomedia.de^$important
