@@ -345,3 +345,5 @@
 # German Corona Apps Very Special lol
 @@||corona-datenspende.de^$important
 @@||datenspende.und-gesund.de^$important
+# Firefox Browser
+@@||detectportal.firefox.com^$important
