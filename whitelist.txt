@@ -347,3 +347,5 @@
 @@||datenspende.und-gesund.de^$important
 # Firefox Browser
 @@||detectportal.firefox.com^$important
+# German Corona Warn App
+@@||svc90.main.px.t-online.de^$important
