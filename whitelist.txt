@@ -350,4 +350,4 @@
 # German Corona Warn App
 @@||svc90.main.px.t-online.de^$important
 # Earthquake App
-@@||fe-lb.tranquilli.org ^$important
+@@||fe-lb.tranquilli.org^$important
