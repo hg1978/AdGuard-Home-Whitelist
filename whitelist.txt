@@ -293,6 +293,7 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||iadsdk.apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
+@@||mesu.apple.com^$important
 # Weather
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
