@@ -1,22 +1,19 @@
-# My Adguard Home whitelist
-# Instagram
+# My Adguard Home whitelist$important
+# Instagram$important
 @@||cdninstagram.com^$important
-# F1 TV
+# F1 TV$important
 @@||f1-prod-production.apigee.net^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
 @@||f1tv-cdn-cent-west.formula1.com.c.footprint.net^$important
 @@||f1tv-cdn-cent-live.formula1.com.c.footprint.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
-@@||f1tv-livedata.formula1.com^$important
 @@||formula1.com^$important
-# Joyn TV Stream
+# Joyn TV Stream$important
 @@||yospace.com^$important
-# Google
+# Google$important
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||android.clients.google.com^$important
-@@||appsbackup-pa.clients6.google.com^$important
-@@||appsbackup-pa.googleapis.com^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -24,26 +21,22 @@
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
 @@||cse.google.com^$important
-@@||fonts.gstatic.com^$important
-@@||www.googleapis.com^$important
 @@||googleapis.com^$important
 @@||gstatic.com^$important
-@@||instantmessaging-pa.googleapis.com^$important
 @@||manifest.googlevideo.com^$important
 @@||redirector.googlevideo.com^$important
 @@||video-stats.l.google.com^$important
 @@||geo3.ggpht.com^$important
 @@||yt3.ggpht.com^$important
-# Youtube
+# Youtube$important
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
-@@||www.youtube-nocookie.com^$important
 @@||youtu.be^$important
 @@||youtube-nocookie.com^$important
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
-# Plex
+# Plex$important
 @@||app.plex.tv^$important
 @@||cpms.spop10.ams.plex.bz^$important
 @@||cpms35.spop10.ams.plex.bz^$important
@@ -65,131 +58,122 @@
 @@||status.plex.tv^$important
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
-# Github
+# Github$important
 @@||github.com^$important
 @@||github.io^$important
 @@||raw.githubusercontent.com^$important
-# Cloudflare
+# Cloudflare$important
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
-# Dropbox
+# Dropbox$important
 @@||dl.dropbox.com^$important
 @@||dl.dropboxusercontent.com^$important
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
-# No-IP.com
-@@||dynupdate.no-ip.com^$important
+# No-IP.com$important
 @@||no-ip.com^$important
-@@||www.no-ip.com^$important
-# Twitter
+# Twitter$important
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
-# Optimizely
+# Optimizely$important
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
-# Akamai Technologies
+# Akamai Technologies$important
 @@||akamaihd.net^$important
 @@||akamaitechnologies.com^$important
 @@||akamaized.net^$important
-@@||lastfm-img2.akamaized.net^$important
 @@||widget-cdn.rpxnow.com^$important
-# Sonarr TV Soft
+# Sonarr TV Soft$important
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
 @@||forums.sonarr.tv^$important
 @@||services.sonarr.tv^$important
 @@||skyhook.sonarr.tv^$important
-# Ipify.org
+# Ipify.org$important
 @@||api.ipify.org^$important
-# Rlje.net VOD
+# Rlje.net VOD$important
 @@||api.rlje.net^$important
-# Buffer CDN 
+# Buffer CDN $important
 @@||bufferapp.com^$important
-# Embedly.com
+# Embedly.com$important
 @@||cdn.embedly.com^$important
-# Dataplicity.com
+# Dataplicity.com$important
 @@||dataplicity.com^$important
-@@||www.dataplicity.com^$important
-# Drift.com
+# Drift.com$important
 @@||drift.com^$important
 @@||driftt.com^$important
-# Giphy.com
+# Giphy.com$important
 @@||giphy.com^$important
-# Gravatar Image
+# Gravatar Image$important
 @@||gravatar.com^$important
-# Ted.com
+# Ted.com$important
 @@||hls.ted.com^$important
 @@||app-api.ted.com^$important
 @@||tedcdn.com^$important
-# Vidible Video Platform
+# Vidible Video Platform$important
 @@||img.vidible.tv^$important
 @@||cdn.vidible.tv^$important
 @@||delivery.vidible.tv^$important
 @@||videos.vidible.tv^$important
-# ImgIX
+# ImgIX$important
 @@||imgix.net^$important
-# XKCD
+# XKCD$important
 @@||imgs.xkcd.com^$important
-#Bitly URL Shortener
+#Bitly URL Shortener$important
 @@||j.mp^$important
-# Jquery
+# Jquery$important
 @@||jquery.com^$important
-# Jsdelivr.net Open Source CDN
+# Jsdelivr.net Open Source CDN$important
 @@||jsdelivr.net^$important
-# Malwarebytes Anti-Malware
+# Malwarebytes Anti-Malware$important
 @@||keystone.mwbsys.com^$important
-# Aliexpress.com
+# Aliexpress.com$important
 @@||login.aliexpress.com^$important
-# Adswizz sponsor clips before several podcasts
+# Adswizz sponsor clips before several podcasts$important
 @@||npr-news.streaming.adswizz.com^$important
-# CBS Television Stream
-@@||om.cbsi.com^$important
-@@||dw.cbsi.com^$important
+# CBS Television Stream$important
 @@||cbsi.com^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
 @@||s0.2mdn.net^$important
-# Audioscrobbler.com
+# Audioscrobbler.com$important
 @@||ws.audioscrobbler.com^$important
-# Pinterest
+# Pinterest$important
 @@||pinterest.com^$important
-# Placehold it image soft
+# Placehold it image soft$important
 @@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
-# Brightcove Player
+# Brightcove Player$important
 @@||brightcove.net^$important
-@@||players.brightcove.net^$important
 @@||secure.brightcove.com^$important
 @@||edge.api.brightcove.com^$important
-# Cloudinary Upload Platform
+# Cloudinary Upload Platform$important
 @@||res.cloudinary.com^$important
-# Shopify.com eCommerce Software
+# Shopify.com eCommerce Software$important
 @@||v.shopify.com^$important
 @@||s.shopify.com^$important
-# Wordpress
+# Wordpress$important
 @@||wp.com^$important
-@@||s1.wp.com^$important
 @@||wordpress.com^$important
-# Avangate Shop
+# Avangate Shop$important
 @@||secure.avangate.com^$important
-# Surveymonkey
+# Surveymonkey$important
 @@||secure.surveymonkey.com^$important
-# JW Player
+# JW Player$important
 @@||ssl.p.jwpcdn.com^$important
-# Tawk Live Chat
+# Tawk Live Chat$important
 @@||tawk.to^$important
-# Themoviedb.com
+# Themoviedb.com$important
 @@||themoviedb.com^$important
-# Thetvdb.com
+# Thetvdb.com$important
 @@||thetvdb.com^$important
-# Tinyurl Shortener
+# Tinyurl Shortener$important
 @@||tinyurl.com^$important
-# Libsyn Podcast Hosting
+# Libsyn Podcast Hosting$important
 @@||traffic.libsyn.com^$important
-# Wikipedia
+# Wikipedia$important
 @@||wikipedia.org^$important
-# Microsoft
+# Microsoft$important
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
 @@||xflight.xboxlive.com^$important
@@ -202,21 +186,13 @@
 @@||t0.ssl.ak.tiles.virtualearth.net^$important
 @@||win10.ipv6.microsoft.com^$important
 @@||sharepoint.com^$important
-@@||s.gateway.messenger.live.com^$important
 @@||pricelist.skype.com^$important
-@@||products.office.com^$important
-@@||onedrive.live.com^$important
-@@||outlook.live.com^$important
-@@||outlook.office365.com^$important
 @@||office.com^$important
 @@||office.net^$important
 @@||office365.com^$important
 @@||officeclient.microsoft.com^$important
 @@||notify.xboxlive.com^$important
-@@||nexusrules.officeapps.live.com^$important
 @@||microsoftonline.com^$important
-@@||login.live.com^$important
-@@||login.microsoftonline.com^$important
 @@||licensing.xboxlive.com^$important
 @@||live.com^$important
 @@||msftncsi.com^$important
@@ -230,25 +206,21 @@
 @@||ctldl.windowsupdate.com^$important
 @@||dev.virtualearth.net^$important
 @@||device.auth.xboxlive.com^$important
-@@||ecn.dev.virtualearth.net^$important
 @@||def-vef.xboxlive.com^$important
-@@||www.msftncsi.com^$important
 @@||eds.xboxlive.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
-@@||dns.msftncsi.com^$important
-@@||g.live.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
-# Netflix
+# Netflix$important
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||appboot.netflix.com^$important
 @@||secure.netflix.com^$important
-# Samsung TV network issue
+# Samsung TV network issue$important
 @@||cdn.samsungcloudsolution.com^$important
-# Spotify
+# Spotify$important
 @@||open.spotify.com^$important
 @@||mobile-ap.spotify.com^$important
 @@||apresolve.spotify.com^$important
@@ -258,9 +230,9 @@
 @@||ap.spotify.com^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audio4-ak.spotify.com.edgesuite.net^$important
-# Sonos
+# Sonos$important
 @@||msmetrics.ws.sonos.com^$important
-# Amazon Prime Video and Amazon CDN
+# Amazon Prime Video and Amazon CDN$important
 @@||eu.api.amazonvideo.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||fls-eu.amazon.com^$important
@@ -269,86 +241,67 @@
 @@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
 @@||amazonaws.com^$important
-@@||s3.amazonaws.com^$important
-@@||d2c8v52ll5s99u.cloudfront.net^$important
-@@||d2gatte9o95jao.cloudfront.net^$important
-# Apple
+# Apple$important
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
 @@||icloud.com^$important
 @@||itunes.com^$important
 @@||mzstatic.com^$important
-@@||updates-http.cdn-apple.com^$important
-@@||keyvalueservice.fe.apple-dns.net^$important
 @@||apple-dns.net^$important
 @@||cdn-apple.com^$important
 @@||iphone-ld.origin-apple.com.akadns.net^$important
-@@||appleid.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
-@@||ocsp.apple.com^$important
 @@||init-p01md-lb.push-apple.com.akadns.net^$important
-@@||init-p01md.apple.com^$important
-@@||init-p01st.push.apple.com^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||iadsdk.apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
-@@||mesu.apple.com^$important
-# Weather
+# Weather$important
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
-# Lets Encrypt
+# Lets Encrypt$important
 @@||letsencrypt.org^$important
-# Spiegel.de
-@@||cdn1.spiegel.de^$important
-@@||cdn.www.spiegel.de^$important
-@@||c.spiegel.de^$important
-@@||cdn.prod.www.spiegel.de^$important
+# Spiegel.de$important
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||spiegel.de^$important
-# Manager Magazin App
+# Manager Magazin App$important
 @@||manager-magazin-de.manager-magazin.de^$important
 @@||cdn1.manager-magazin.de^$important
 @@||sni.cdn.manager-magazin.de.c.footprint.net^$important
 @@||a.manager-magazin.de^$important
-# Disney+ Streaming
-@@||sanalytics.disneyplus.com^$important
+# Disney+ Streaming$important
 @@||cdn.registerdisney.go.com^$important
-@@||vod-l3c-eu-north-2.media.dssott.com^$important
 @@||dssott.com^$important
 @@||disneyplus.com^$important
 @@||disney-plus.net^$important
 @@||cws.conviva.com^$important
 @@||disneyplus.bn5x.net^$important
 @@||disney-portal.my.onetrust.com^$important
-@@||global.edge.bamgrid.com^$important
-@@||prod-ripcut-delivery.disney-plus.net^$important
 @@||bamgrid.com^$important
 @@||disneyplus.com.ssl.sc.omtrdc.net^$important
 @@||cws-sjc2.conviva.com^$important
 @@||cws-iad1.conviva.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 @@||disney.demdex.net^$important
-# Formula 1 Mobile iOS
+# Formula 1 Mobile iOS$important
 @@||codemasters.helpshift.com^$important
 @@||f1mrs.codemasters.com^$important
 @@||cdp.cloud.unity3d.com^$important
 @@||di-wuhqj6gc.leasewebultracdn.com^$important
 @@||config.uca.cloud.unity3d.com^$important
 @@||ecommerce.iap.unity3d.com^$important
-# DynDns Provider
+# DynDns Provider$important
 @@||dyndns.variomedia.de^$important
-# ARD German Television
-@@||mcdn.daserste.de^$important
+# ARD German Television$important
 @@||image.ard.de^$important
 @@||image-ard-de-cddc.at-o.net^$important
 @@||daserste.de^$important
-# German Corona Apps Very Special lol
+# German Corona Apps Very Special lol$important
 @@||corona-datenspende.de^$important
 @@||datenspende.und-gesund.de^$important
-# Firefox Browser
+# Firefox Browser$important
 @@||detectportal.firefox.com^$important
-# German Corona Warn App
+# German Corona Warn App$important
 @@||svc90.main.px.t-online.de^$important
-# Earthquake App
+# Earthquake App$important
 @@||fe-lb.tranquilli.org^$important
