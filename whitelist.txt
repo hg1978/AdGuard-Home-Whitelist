@@ -1,6 +1,7 @@
 # My Adguard Home whitelist
 # Instagram
 @@||cdninstagram.com^$important
+@@||instagram.com^$important
 # F1 TV
 @@||f1-prod-production.apigee.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
