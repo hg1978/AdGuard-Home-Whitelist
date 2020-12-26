@@ -310,3 +310,4 @@
 @@||reddit.com^$important
 # WhatsApp
 @@||whatsapp.net^$important
+@@||whatsapp.com^$important
