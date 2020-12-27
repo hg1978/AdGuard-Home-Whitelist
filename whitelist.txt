@@ -84,6 +84,7 @@
 @@||akamaized.net^$important
 @@||widget-cdn.rpxnow.com^$important
 @@||akamai.net^$important
+@@||akadns.net^$important
 # Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
