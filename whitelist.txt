@@ -250,7 +250,6 @@
 @@||apple.com^$important
 @@||itunes.com^$important
 @@||mzstatic.com^$important
-@@||cdn-apple.com^$important
 @@||iphone-ld.origin-apple.com.akadns.net^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||init-p01md-lb.push-apple.com.akadns.net^$important
