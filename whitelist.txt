@@ -9,6 +9,8 @@
 @@||formula1.com^$important
 # Joyn TV Stream
 @@||yospace.com^$important
+@@||heartbeats.prd.data.s.joyn.de^$important
+@@||ad-client.mediafe-prd.s.joyn.de^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
