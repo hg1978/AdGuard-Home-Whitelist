@@ -313,3 +313,5 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+# Tidal
+@@||sp-ad-fa.audio.tidal.com
