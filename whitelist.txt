@@ -315,3 +315,4 @@
 @@||whatsapp.com^$important
 # Tidal
 @@||sp-ad-fa.audio.tidal.com^$important
+@@||vb-ad-fa.video.tidal.com^$important
