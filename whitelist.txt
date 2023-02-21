@@ -249,7 +249,6 @@
 @@||amazonaws.com^$important
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
-@@||apple.com^$important
 @@||itunes.com^$important
 @@||mzstatic.com^$important
 @@||iphone-ld.origin-apple.com.akadns.net^$important
