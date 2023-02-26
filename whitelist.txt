@@ -1,4 +1,7 @@
 # My Adguard Home whitelist
+#Adguard DNS
+@@||dns.adguard.com^$important
+@@||dns-family.adguard.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
