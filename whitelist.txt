@@ -318,3 +318,8 @@
 # Tidal
 @@||sp-ad-fa.audio.tidal.com^$important
 @@||vb-ad-fa.video.tidal.com^$important
+# The Pionneer App
+@@||piano.io^$important
+# Wow Tv App ex Sky
+@@||dpm.demdex.net^$important
+@@||identity.mparticle.com^$important
