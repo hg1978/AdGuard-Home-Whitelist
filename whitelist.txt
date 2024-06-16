@@ -323,3 +323,5 @@
 # Wow Tv App ex Sky
 @@||dpm.demdex.net^$important
 @@||identity.mparticle.com^$important
+# Meteologix Business
+@@||business.meteologix.com^$important
