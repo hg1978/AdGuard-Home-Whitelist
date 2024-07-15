@@ -326,4 +326,4 @@
 # Meteologix Business
 @@||business.meteologix.com^$important
 #Scalable
-@||.capital^$important
+@@||.capital^$important
