@@ -325,3 +325,5 @@
 @@||identity.mparticle.com^$important
 # Meteologix Business
 @@||business.meteologix.com^$important
+#Scalable
+@||.capital^$important
