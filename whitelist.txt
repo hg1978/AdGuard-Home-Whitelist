@@ -327,3 +327,5 @@
 @@||business.meteologix.com^$important
 #Scalable
 @@||.capital^$important
+@@||de.scalable.capital^$important
+@@||secure.scalable.capital^$important
