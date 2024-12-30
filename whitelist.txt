@@ -325,7 +325,9 @@
 @@||identity.mparticle.com^$important
 # Meteologix Business
 @@||business.meteologix.com^$important
-#Scalable
+# Scalable
 @@||.capital^$important
 @@||de.scalable.capital^$important
 @@||secure.scalable.capital^$important
+# Mailbox.org
+@@||mailbox.org^$important
